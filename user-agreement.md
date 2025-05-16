@@ -10,31 +10,34 @@ This User Agreement ("Agreement") is a legal agreement between you ("User") and 
 By downloading, installing, or using the Game, you agree to be bound by the terms of this Agreement.
 
 ## 1. License
-Developer grants you a personal, non-exclusive, non-transferable, revocable license to use the Game solely for your own non-commercial entertainment purposes on your compatible mobile device.
+You are granted a personal, non-exclusive, non-transferable, revocable license to use the Game on a compatible mobile device for personal, non-commercial purposes.
 
-## 2. Ownership and Intellectual Property
-All rights, title, and interest in and to the Game (including but not limited to software code, images, logos, gameplay, sounds, and interface) remain the sole property of the Developer.
+## 2. Intellectual Property
+All content and materials in the Game, including but not limited to software code, graphics, sounds, and trademarks, remain the sole property of the Developer.
 
 ## 3. User Responsibilities
-You agree not to use the Game in any way that may cause harm to other users, the Developer, or violate applicable laws.
+You agree not to misuse the Game or attempt to reverse engineer or modify it.
 
-## 4. Health Warning – Epilepsy Disclaimer
-**WARNING:** This Game may contain flashing lights or rapidly changing images that can trigger seizures in individuals with photosensitive epilepsy. Consult a doctor before playing if you're unsure.
+## 4. Health Disclaimer
+**WARNING:** The Game may contain flashing lights or visual patterns that could trigger seizures or other health issues in individuals with photosensitive epilepsy or similar conditions.  
+By using the Game, you acknowledge that you play at your own risk and that the Developer is not liable for any health effects.
 
-## 5. No Warranty
-The Game is provided "as is" without warranties of any kind. You use the Game at your own risk.
+## 5. Disclaimer of Warranties
+The Game is provided "as is" without warranties of any kind. The Developer disclaims all express or implied warranties, including but not limited to merchantability or fitness for a particular purpose.
 
 ## 6. Limitation of Liability
-The Developer is not liable for any indirect, incidental, or consequential damages resulting from use of the Game.
+To the fullest extent permitted by applicable law, the Developer shall not be liable for any direct, indirect, incidental, special, or consequential damages arising out of or related to your use of the Game.
 
 ## 7. Advertisements
-The Game may display ads via third-party networks. The Developer is not responsible for the content or consequences of interacting with these ads.
+The Game may display advertisements from third-party networks such as Google AdMob. The Developer has no control over and is not responsible for the content of such advertisements.
 
-## 8. Updates and Changes
-The Developer may update or discontinue the Game at any time without notice.
+## 8. Termination
+This Agreement remains in effect until terminated by either party. You may terminate it by deleting the Game.
 
 ## 9. Governing Law
 This Agreement is governed by the laws of the Republic of Kazakhstan.
 
 ## 10. Contact
-For questions, contact: zhakenov.askar@gmail.com
+If you have questions or concerns, contact:  
+**Zhakenov Askar**  
+**Email:** zhakenov.askar@gmail.com

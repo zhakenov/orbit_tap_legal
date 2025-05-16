@@ -5,37 +5,52 @@
 **Email:** zhakenov.askar@gmail.com  
 **Country:** Republic of Kazakhstan
 
-This Privacy Policy explains how Orbit Tap ("Game") handles your data.
+This Privacy Policy describes how the mobile game Orbit Tap ("Game") handles user data.
 
-## 1. Data We Collect
-- Nickname entered by user (optional)
-- Device ID (for analytics or leaderboard)
-- High score and gameplay stats
+## 1. What We Collect
+The Game collects the following **non-personal information**:
+- Nicknames (user-inputted display names)
+- Device identifiers (for distinguishing users)
+- Gameplay data, such as high scores
 
-## 2. What We Do NOT Collect
-We do **not** collect names, emails, phone numbers, location data, photos, or contacts.
+This data is used solely to operate core game features such as score tracking and leaderboards.
 
-## 3. Purpose of Data Use
-- Displaying global leaderboards
-- Ensuring fair gameplay
-- Analyzing anonymous stats to improve the game
+## 2. What We Do Not Collect
+We do not collect:
+- Names, email addresses, phone numbers
+- Location data
+- Photos, camera, microphone, or contact access
+- Any other personally identifiable information
+
+## 3. Use of Data
+Collected data is used exclusively for:
+- Tracking high scores
+- Differentiating between players
+- Improving gameplay and game balancing
+
+No data is sold, shared, or transferred to third parties for any unrelated purposes.
 
 ## 4. Advertising
-The Game shows ads through third-party providers like Google AdMob. These services may use anonymized device info and advertising IDs.
+The Game may display advertisements through third-party services such as Google AdMob.
 
-⚠️ The Developer is **not responsible** for the content or results of any interaction with ads shown by third parties.
+⚠️ The Developer does **not control or endorse** the content of these ads and is **not responsible** for any interactions, purchases, or outcomes related to advertising.
 
-## 5. Children's Privacy
-The Game is not directed at children under 13 and does not knowingly collect information from them.
+Ads may use anonymous identifiers (such as device ID) to display contextually relevant ads, **but the Game is not classified as "child-directed"** under applicable laws.
 
-## 6. Epilepsy Warning
-The Game may contain visual effects that could trigger seizures in individuals with photosensitive epilepsy.
+## 5. Epilepsy and Health Warning
+The Game may contain visual effects that can potentially trigger seizures in users with photosensitive epilepsy.  
+Use the Game at your own discretion. The Developer bears no responsibility for any health-related consequences.
 
-## 7. Data Security
-We take reasonable precautions, but due to the nature of mobile platforms, no system can be guaranteed 100% secure.
+## 6. Children’s Privacy
+While the Game is suitable for all ages, it is **not directed specifically at children under 13**, and does not knowingly collect personal information from children.
 
-## 8. Policy Updates
-We may revise this policy at any time. Continued use of the Game indicates acceptance of the latest version.
+## 7. Security
+We take reasonable measures to protect data but cannot guarantee absolute security due to the nature of mobile platforms.
+
+## 8. Changes to This Policy
+This Privacy Policy may be updated from time to time. Continued use of the Game after changes implies your acceptance of the revised policy.
 
 ## 9. Contact
-For questions, contact: zhakenov.askar@gmail.com
+For any privacy-related questions, please contact:  
+**Zhakenov Askar**  
+**Email:** zhakenov.askar@gmail.com
