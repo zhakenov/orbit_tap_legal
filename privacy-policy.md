@@ -2,7 +2,7 @@
 
 **Effective Date:** 2025-05-16  
 **Developer:** Zhakenov Askar  
-**Email:** askar.zhakenov.91@gmail.com
+**Email:** askar.zhakenov.91@gmail.com  
 **Country:** Republic of Kazakhstan
 
 ---
