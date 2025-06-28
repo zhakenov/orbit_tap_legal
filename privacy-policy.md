@@ -2,7 +2,7 @@
 
 **Effective Date:** 2025-05-16  
 **Developer:** Zhakenov Askar  
-**Email:** zhakenov.askar@gmail.com  
+**Email:** askar.zhakenov.91@gmail.com  
 **Country:** Republic of Kazakhstan
 
 This Privacy Policy describes how the mobile game Orbit Tap ("Game") handles user data.
@@ -53,4 +53,4 @@ This Privacy Policy may be updated from time to time. Continued use of the Game 
 ## 9. Contact
 For any privacy-related questions, please contact:  
 **Zhakenov Askar**  
-**Email:** zhakenov.askar@gmail.com
+**Email:** askar.zhakenov.91@gmail.com
