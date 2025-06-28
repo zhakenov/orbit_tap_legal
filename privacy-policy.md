@@ -1,56 +1,110 @@
-# Privacy Policy
+# Privacy Policy for Orbit Tap: Space Challenge
 
 **Effective Date:** 2025-05-16  
 **Developer:** Zhakenov Askar  
-**Email:** askar.zhakenov.91@gmail.com  
+**Email:** askar.zhakenov.91@gmail.com
 **Country:** Republic of Kazakhstan
 
-This Privacy Policy describes how the mobile game Orbit Tap ("Game") handles user data.
+---
 
-## 1. What We Collect
-The Game collects the following **non-personal information**:
-- Nicknames (user-inputted display names)
-- Device identifiers (for distinguishing users)
-- Gameplay data, such as high scores
+## 1. Introduction
 
-This data is used solely to operate core game features such as score tracking and leaderboards.
+This Privacy Policy explains how the mobile game *Orbit Tap: Space Challenge* (“Game”, “we”, “our”) collects, uses, and protects information from users.
 
-## 2. What We Do Not Collect
-We do not collect:
-- Names, email addresses, phone numbers
-- Location data
-- Photos, camera, microphone, or contact access
-- Any other personally identifiable information
+By playing the Game, you agree to the terms of this Policy.
 
-## 3. Use of Data
-Collected data is used exclusively for:
-- Tracking high scores
-- Differentiating between players
-- Improving gameplay and game balancing
+---
 
-No data is sold, shared, or transferred to third parties for any unrelated purposes.
+## 2. Information We Collect
 
-## 4. Advertising
-The Game may display advertisements through third-party services such as Google AdMob.
+We collect **non-personally identifiable information** to provide and improve core game functionality. This includes:
 
-⚠️ The Developer does **not control or endorse** the content of these ads and is **not responsible** for any interactions, purchases, or outcomes related to advertising.
+- User display names (nicknames)
+- Device identifiers (for distinguishing users across sessions)
+- Gameplay statistics (e.g., scores, session duration)
+- Anonymous analytics and crash reports (via [Firebase](https://firebase.google.com))
 
-Ads may use anonymous identifiers (such as device ID) to display contextually relevant ads, **but the Game is not classified as "child-directed"** under applicable laws.
+---
 
-## 5. Epilepsy and Health Warning
-The Game may contain visual effects that can potentially trigger seizures in users with photosensitive epilepsy.  
-Use the Game at your own discretion. The Developer bears no responsibility for any health-related consequences.
+## 3. Advertising and Third Parties
 
-## 6. Children’s Privacy
-While the Game is suitable for all ages, it is **not directed specifically at children under 13**, and does not knowingly collect personal information from children.
+We may show in-game advertisements using services like **Google AdMob**.
 
-## 7. Security
-We take reasonable measures to protect data but cannot guarantee absolute security due to the nature of mobile platforms.
+These ads may use:
+- Device IDs
+- Anonymous identifiers
+- General usage data (not personal)
 
-## 8. Changes to This Policy
-This Privacy Policy may be updated from time to time. Continued use of the Game after changes implies your acceptance of the revised policy.
+We **do not** control ad content or interactions. Ad networks may collect data under their own privacy policies. See [Google's Privacy Policy](https://policies.google.com/privacy).
 
-## 9. Contact
-For any privacy-related questions, please contact:  
+The Game is **not classified as "child-directed"** under COPPA or similar laws.
+
+---
+
+## 4. What We Do Not Collect
+
+We **do not** collect or store:
+- Full names
+- Phone numbers or email addresses
+- Physical location or GPS data
+- Photos, microphone, or camera access
+- Contacts or other sensitive device data
+
+---
+
+## 5. Use of Collected Data
+
+Collected data is used solely to:
+- Enable leaderboard functionality
+- Track high scores and user progress
+- Analyze gameplay for balancing and improvements
+- Display ads appropriate to general app context
+
+We do **not** sell, trade, or share data with unrelated third parties.
+
+---
+
+## 6. Consent and User Rights
+
+If you are in the **EU**, **California**, or other regions with privacy laws:
+- You may see a **consent dialog** (via Google UMP SDK) upon first launch.
+- You have the right to **withdraw consent** at any time.
+
+The Game includes a **"Privacy Settings"** entry point (where required by law) for managing preferences.
+
+---
+
+## 7. Children's Privacy
+
+The Game is intended for general audiences.  
+We do not knowingly collect data from children under 13 (or the applicable minimum age in your region).  
+If you believe we collected such data, please contact us immediately.
+
+---
+
+## 8. Epilepsy and Health Disclaimer
+
+The Game contains visual effects that may trigger seizures in users with photosensitive epilepsy.  
+Use with caution. We are not responsible for any resulting health issues.
+
+---
+
+## 9. Security
+
+We take **reasonable measures** to protect your data, but cannot guarantee absolute security due to the nature of mobile platforms.
+
+---
+
+## 10. Changes to This Policy
+
+This Privacy Policy may be updated periodically.  
+Continued use of the Game after updates constitutes your acceptance of the new terms.
+
+---
+
+## 11. Contact Us
+
+For any questions regarding this Privacy Policy, please contact:
+
 **Zhakenov Askar**  
-**Email:** askar.zhakenov.91@gmail.com
+📧 askar.zhakenov.91@gmail.com
